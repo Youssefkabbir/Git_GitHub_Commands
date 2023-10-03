@@ -1,0 +1,46 @@
+1)
+cd C:/Users/kabir/Desktop/Projects
+2)
+git clone "https://github.com/Youssefkabbir/Traffic_Recognition.git" 
+git clone "https://github.com/Youssefkabbir/Amazigh_handwritten_character_recognition.git"
+git clone "https://github.com/Youssefkabbir/Downlload_from_youtube.git"
+git clone "https://github.com/Youssefkabbir/Packages_To_Install.git"
+git clone "https://github.com/Youssefkabbir/American_Sign_Language.git"
+git clone  "https://github.com/Youssefkabbir/Traffic_Signs_Recognition.git"
+git clone  "https://github.com/Youssefkabbir/Large_Files.git"
+git clone   "https://github.com/Youssefkabbir/Project_Git_Test.git"
+git clone "https://github.com/Youssefkabbir/Git_GitHub_Commands.git"
+git clone
+pip3 install plot-keras-history
+pip3 install pytube
+pip3 install session-info
+pip3 install mlxtend
+pip3 install --upgrade scikit-learn
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+					Other commands
+###############################################################################################################
+1) track a specific file
+git add path/to/file
+2) commit  a specific file
+git commit -m 'my notes' -- path/to/my/file.ext.
+3) uncommit 
+ git reset --soft HEAD~4
+4)how to push the large  files into gitHub 
+git lfs track '*.extension'
+git add '.gitattributes'
+git add 'filename.extension'
+git commit -m 'message'
+5)how to untrack files 
+git rm --cahced "path/filename1" "path/filename2" "path/filename3"
+6)how to untrack folder
+git rm -r --cached "folder "
+7)how to show commits
+git log
+8)
+9)
+10)
+
+###############################################################################################################
+					End
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
