@@ -1,1 +1,3 @@
 *.h5
+*.png
+!Confusion_matrix_1.png
