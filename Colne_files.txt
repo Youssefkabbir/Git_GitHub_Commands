@@ -10,7 +10,7 @@ git clone  "https://github.com/Youssefkabbir/Traffic_Signs_Recognition.git"
 git clone  "https://github.com/Youssefkabbir/Large_Files.git"
 git clone   "https://github.com/Youssefkabbir/Project_Git_Test.git"
 git clone "https://github.com/Youssefkabbir/Git_GitHub_Commands.git"
-
+git clone "https://github.com/Youssefkabbir/Multi_Class_Fruits_Classification.git"
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 					Other commands
@@ -39,3 +39,17 @@ git log
 ###############################################################################################################
 					End
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+                                                @@@## Fruits Project @@@##
+
+1)
+git init 
+2)
+git add . "data/"
+3)create .gitignore file
+touch .gitignore 
+git add ".gitignore"
+4)		@@@@#### Proper steps to add existing code to GitHub @@@@####
+git remote add origin https://github.com/Youssefkabbir/Multi_Class_Fruits_Classification.git
+git push -u -f origin master
